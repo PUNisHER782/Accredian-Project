@@ -158,10 +158,10 @@ With additional time, I would like to add:
 The project is deployed on Vercel.
 
 Live Demo:
-<YOUR_VERCEL_URL>
+[accredian-project-sigma.vercel.app](https://accredian-project-sigma.vercel.app/)
 
 GitHub Repository:
-<YOUR_GITHUB_REPOSITORY>
+(https://github.com/PUNisHER782/Accredian-Project)
 
 ---
 
