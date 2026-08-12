@@ -2,7 +2,7 @@
 
 A Full Stack Developer Internship assignment built using **Next.js 15**, **TypeScript**, **Tailwind CSS**, and **GSAP**.
 
-The objective of this project was to recreate the overall information architecture and user experience of the Accredian Enterprise landing page while implementing an original visual identity, reusable components, modern animations, and responsive design.
+The objective of very this project was to recreate the overall information architecture and user experience of the Accredian Enterprise landing page while implementing an original visual identity, reusable components, modern animations, and responsive design.
 
 Reference Website:
 https://enterprise.accredian.com/
